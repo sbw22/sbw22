@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sbw22
-- 👀 I’m interested in ...
+- 👀 I’m interested in Computer Science and Web Development.
 - 🌱 I’m currently learning The Odin Project and Harvard CS50.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything that anyone would like to include me in!
 - 📫 How to reach me: swei5515@lps53.org
 
 <!---
