@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sbw22
+- 👋 Hi, I’m Spencer Weishaar
 - 👀 I’m interested in Computer Science, Web Development, and Machine Learning.
 - 🌱 I’m currently learning about how to make AI models (Q-learning, GAN, etc).
 - 💞️ I’m looking to collaborate on anything that anyone would like to include me in!
