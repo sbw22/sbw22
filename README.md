@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Spencer Weishaar
-- 👀 I’m interested in Computer Science and Machine Learning.
-- 🌱 I’m currently learning about how to make AI models (Q-learning, GAN, etc).
+- 👀 I’m interested in Computer Science, Sports Analytics, and Machine Learning.
+- 🌱 I’m currently learning about how to make AI models (Q-learning, Regression, Transformers, etc).
 - 💞️ I’m looking to collaborate on anything that anyone would like to include me in!
 - 📫 How to reach me: sbweishaar@icloud.com
 
